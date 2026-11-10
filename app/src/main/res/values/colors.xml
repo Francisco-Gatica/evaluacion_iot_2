@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta Principal Tecnológica (IoT / Seguridad) -->
+    <color name="colorPrimary">#1E3A8A</color>       <!-- Azul Cobalto Profundo -->
+    <color name="colorPrimaryDark">#0F172A</color>   <!-- Azul Noche / Slate 900 -->
+    <color name="colorPrimaryLight">#3B82F6</color>  <!-- Azul Neón / Eléctrico -->
+    <color name="colorAccent">#06B6D4</color>        <!-- Cian Tecnológico -->
+
+    <!-- Fondos y Superficies -->
+    <color name="bg_app">#F1F5F9</color>             <!-- Fondo general Slate suave -->
+    <color name="surface_card">#FFFFFF</color>       <!-- Fondo de tarjetas blanco puro -->
+    <color name="surface_card_tint">#F8FAFC</color>  <!-- Superficie interna suave -->
+
+    <!-- Textos -->
+    <color name="text_primary">#0F172A</color>       <!-- Texto principal oscuro nítido -->
+    <color name="text_secondary">#64748B</color>     <!-- Texto secundario Slate -->
+    <color name="text_muted">#94A3B8</color>         <!-- Texto terciario -->
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Semáforo de Seguridad y Estados de Sensores -->
+    <color name="status_normal">#10B981</color>      <!-- Esmeralda: Seguro / Normal -->
+    <color name="status_gas">#0D9488</color>         <!-- Teal intenso: Gas inflamable -->
+    <color name="status_smoke">#F59E0B</color>       <!-- Ámbar vibrante: Humo -->
+    <color name="status_fire">#EF4444</color>        <!-- Carmesí neón: Fuego directo -->
+    <color name="status_off">#94A3B8</color>         <!-- Slate apagado: En reposo -->
+
+    <!-- Botón de Cerrar Sesión -->
+    <color name="btn_logout_bg">#FEE2E2</color>      <!-- Fondo suave rojizo -->
+    <color name="btn_logout_stroke">#FCA5A5</color>  <!-- Borde suave rojizo -->
+    <color name="btn_logout_text">#DC2626</color>    <!-- Texto rojo elegante -->
+</resources>
